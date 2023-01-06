@@ -10,8 +10,10 @@ int main(void){
         cout<<"let's make it a good day"<<endl;
     else if(s=="thirsty")
         cout<<"focus on goal"<<endl;
-    else
+    else if(s=="fearfull")
         cout<<"Be brave to get a good day"<<endl;
+    else
+        cout<<"when life gives u lemon make a lemonny"<<endl;
     return 0;
 }
 //modified code of the goodday code.
