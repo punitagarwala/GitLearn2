@@ -10,3 +10,4 @@ int main(void){
         cout<<"let's make it a good day"<<endl;
     return 0;
 }
+//modified code of the goodday code.
