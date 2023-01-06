@@ -8,7 +8,9 @@ int main(void){
         cout<<"well, carry one"<<endl;
     else if(s=="no")
         cout<<"let's make it a good day"<<endl;
-    else 
+    else if(s=="thirsty")
+        cout<<"focus on goal"<<endl;
+    else
         cout<<"Be brave to get a good day"<<endl;
     return 0;
 }
