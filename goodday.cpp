@@ -13,3 +13,4 @@ int main(void){
     return 0;
 }
 //modified code of the goodday code.
+//how are u, p?
