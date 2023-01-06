@@ -6,7 +6,7 @@ int main(void){
     cin>>s;
     if(s=="yes")
         cout<<"well, carry one"<<endl;
-    else
+    else if(s=="no")
         cout<<"let's make it a good day"<<endl;
     return 0;
 }
